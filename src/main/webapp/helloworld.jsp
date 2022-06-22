@@ -19,7 +19,7 @@
 			<td>테스트4</td>
 		</tr>
 		<tr>
-			<td colspan="2">테스트5</td>
+			<td colspan="2">수정중</td>
 
 		</tr>
 	</table>
